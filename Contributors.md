@@ -8,12 +8,14 @@
 - [nnhjs](https://github.com/nnhjs)
 - [Black Knight](https://github.com/BlacKnight-RH)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
+- [Aung Thu Zaw](https://github.com/Aung-Thu-Zaw)
 - [Sudeshna Saha](https://github.com/sudeshna-s03)
 - [Oussama Bernou](https://github.com/0ussamaBernou)
 - [Dapo Adedire](https://github.com/dapoadedire)
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Moses Samanhyia](https://github.com/starlabelgh)
 - [Myo Thet Maung](https://github.com/MyoThetMaung)
+- [Samiksha Kute] (https://github.com/samikshakute)
 - [Robby G]
 - <a href="https://github.com/hello-smile6">hello-smile6</a> <sub><a href="https://solanum.9pfs.repl.co">(Personal IRC network)</a></sub><br/>[![About Me](https://github-readme-stats.vercel.app/api?username=hello-smile6&show_icons=true&theme=tokyonight)](https://github.com/hello-smile6/)
 - [Aaron Lowe](https://github.com/CyberFlameGO
@@ -6314,6 +6316,7 @@ Himanshu Dedha
 - [Ayush Rudani](https://github.com/R-Ayush777)
 - [Abhishek Prabhakar](https://github.com/Abhisekprabhakar)
 - [Muhammad Ahmad(ZeusDes)](https://github.com/ZeusDes)
+- [Kyskaar](https://github.com/kyskar)
 - [Marcus Vinicius Braz](https://github.com/mvbrazz)
 - [Kunal](https://github.com/RuthlessRuler)
 - [Not Marcus](https://github.com/)
